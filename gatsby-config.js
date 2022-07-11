@@ -1,7 +1,8 @@
 module.exports = {
   siteMetadata: {
     title: `exampl1`,
-    siteUrl: `https://www.yourdomain.tld`,
+    siteUrl: `https://vce-cse-dept.github.io/`,
   },
+  pathPrefix: "/test-vac-gatsby",
   plugins: [],
 }
